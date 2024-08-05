@@ -11,9 +11,9 @@ Here you will find details regarding how to set-up the stimuli equipment before 
 
 
 ## Table of contents
-1. [Persepective correction: Set-up and Verification](/perspective_correction.html)
+1. [Persepective correction: Set-up and Verification](perspective_correction.md)
 
-2. [Function usage and examples](/stimuli_functions.html)
+2. [Function usage and examples](perspective_correction.md)
 
 3. Coming soon ....
 
