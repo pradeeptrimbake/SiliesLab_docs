@@ -15,7 +15,7 @@ math: katex
 - an indirect measurement measuring the straight distance of the fly to the point where the screen touches the holder results in 4.6cm distance
 - we decided to assume the distance (D) to be 4.8cm
 
-![Figure 1: Pictures of equipment that can be used to validate the projection parameters.](/assets/fig1.png )
+![Figure 1: Pictures of equipment that can be used to validate the projection parameters.](assets/fig1.png)
 <!-- <img src="docs/assets/fig1.png" alt="drawing" width="600"/>  -->
 <br>
 *Figure 1: Pictures of equipment that can be used to validate the projection parameters.*
@@ -30,7 +30,7 @@ math: katex
 2. For calculating the object size at different angular positions we calculated the delta of two object sizes:  E.g.: 10° size at position 30°: Calculate a (35°) – a (25°).
  
 <!-- <img src="docs/assets/fig2.png" alt="fig2" width="800"/>  -->
-![Figure 2](/assets/fig2.png )
+![Figure 2](assets/fig2.png )
 <br>
 *Figure 2: Illustration of the current set-up showing the different parameters.*
 <br>
@@ -47,7 +47,7 @@ math: katex
 
 <br>
 
-![Figure 3](/assets/fig3.png )
+![Figure 3](assets/fig3.png )
 <!-- <img src="docs/assets/fig3.png" alt="fig2" width="600"/>  -->
 <br>
 *Figure 3: Plot depicting the relationship between the observed bar size and the angual postion. The solid line is the expected relationship. The bars and circle coincide well with the expected relationship.*
