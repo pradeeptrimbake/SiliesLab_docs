@@ -23,7 +23,7 @@ math: katex
 ## II.	Verify perspective correction:
 <br>
 
-1. Calculate the size a given angle (α) would correspond to on the screen in cm at the center position (angular position=0°) (Figure [2A](#L34)): 
+1. Calculate the size a given angle (α) would correspond to on the screen in cm at the center position (angular position=0°) (Figure [2](#L34)): 
 
    $$a = (\tan(\frac{\alpha}{2}) \times D) \times 2 $$
    
@@ -36,12 +36,12 @@ math: katex
 <br>
 ### Angular postions
 
-| Angular size | 0°     |10°    |20°    |30°   |
-|:------------ |:-------|:------|:------|:-----|
-| 5°           | 0.4191 |0.4322 | 0.4748|0.5592|
-| 0°           | 0.8399 |0.8662 | 0.9521|1.1227|
-| 0°           | 1.6927 |1.7471 | 1.9249|2.2806|
-| 0°           | 3.4941 |3.6177 | 4.0277|4.8740|
+| Angular size  | 0°     |10°    |20°    |30°   |
+|:------------  |:-------|:------|:------|:-----|
+| 5°            | 0.4191 |0.4322 | 0.4748|0.5592|
+| 10°           | 0.8399 |0.8662 | 0.9521|1.1227|
+| 20°           | 1.6927 |1.7471 | 1.9249|2.2806|
+| 40°           | 3.4941 |3.6177 | 4.0277|4.8740|
 
   *Table 1: Predicted size in cm of objects with different angular sizes at different angular positions projected to the screen*
 
