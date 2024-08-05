@@ -15,7 +15,7 @@ math: katex
 - an indirect measurement measuring the straight distance of the fly to the point where the screen touches the holder results in 4.6cm distance
 - we decided to assume the distance (D) to be 4.8cm
 
-![Figure 1: Pictures of equipment that can be used to validate the projection parameters.](assets/fig1.png)
+![Figure 1: Pictures of equipment that can be used to validate the projection parameters.](https://github.com/pradeeptrimbake/SiliesLab_docs/blob/main/assets/fig1.png)
 <!-- <img src="docs/assets/fig1.png" alt="drawing" width="600"/>  -->
 <br>
 *Figure 1: Pictures of equipment that can be used to validate the projection parameters.*
