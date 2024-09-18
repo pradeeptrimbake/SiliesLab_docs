@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stimuli functions
+title: Stimuli
 nav_order: 3
 ---
 
