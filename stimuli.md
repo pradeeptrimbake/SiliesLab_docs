@@ -38,7 +38,10 @@ This stimulus function creates a circle (a PsychoPy stimulus object, `stim_obj`)
 - **PERSPECTIVE_CORRECTION**: if perspective correction is applied `1` or not `0`.
 - **RANDOMIZATION_MODE**: if the epochs’ presentation order is pseudorandomized `1 or 2` or not `0`.
 
-#### Epoch-specific Parameters:
+<br>
+
+#### Epoch-specific Parameters
+
 | Stimulus.stimtype | circle | circle |
 |:-------------------|:--------|:--------|
 | Stimulus.bg       | 0      | 1      |
@@ -48,6 +51,8 @@ This stimulus function creates a circle (a PsychoPy stimulus object, `stim_obj`)
 | Stimulus.tau      | 0      | 0      |
 | Stimulus.x_center | 0      | 0      |
 | Stimulus.y_center | 0      | 0      |
+
+<br>
 
 #### List of Acronyms:
 - **stimtype**: The type, so choose is `circle`.
@@ -97,7 +102,9 @@ This stimulus function creates bars (a PsychoPy stimulus object, `bar`) with a s
 - **PERSPECTIVE_CORRECTION**: if perspective correction is applied `1` or not `0`.
 - **RANDOMIZATION_MODE**: Set to `0` when the total number of EPOCHS = 1.
 
-#### Epoch-specific Parameters:
+<br>
+#### Epoch-specific Parameters
+
 | Stimulus.stimtype      | stripe(s) |
 |:------------           |:-------   |
 | Stimulus.bg            | 0.5       |
@@ -112,6 +119,8 @@ This stimulus function creates bars (a PsychoPy stimulus object, `bar`) with a s
 | Stimulus.bar.ymin      | -40       |
 | Stimulus.bar.ymax      | 40        |
 | Stimulus.bar.distance  | 5         |
+
+<br>
 
 #### List of Acronyms:
 - **stimtype**: Choose `stripe(s)`.
@@ -157,7 +166,9 @@ This stimulus function generates ternary noise stimulation (using bars or square
 - **PERSPECTIVE_CORRECTION**: if perspective correction is applied `1` or not `0`.
 - **RANDOMIZATION_MODE**: Set this to `1` or `2` for pseudorandomized epochs.
 
-#### Epoch-specific Parameters:
+<br>
+#### Epoch-specific Parameters
+
 | Stimulus.stimtype      | circle | noise |
 |:------------------------|:--------|:-------|
 | Stimulus.bg            | 0.5    | 0     |
@@ -171,6 +182,8 @@ This stimulus function generates ternary noise stimulation (using bars or square
 | Stimulus.tau           | 2      | 0     |
 | Stimulus.x_center      | 0      | 0     |
 | Stimulus.y_center      | 0      | 0     |
+
+<br>
 
 ### Current Stimulus Function:
 ```python
