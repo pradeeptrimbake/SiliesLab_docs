@@ -99,7 +99,7 @@ This stimulus function creates bars (a PsychoPy stimulus object, `bar`) with a s
 
 #### Epoch-specific Parameters:
 | Stimulus.stimtype      | stripe(s) |
-|:------------------------|:-----------|
+|:------------           |:-------   |
 | Stimulus.bg            | 0.5       |
 | Stimulus.fg            | 0         |
 | Stimulus.bg.duration   | 1         |
