@@ -40,7 +40,7 @@ This stimulus function creates a circle (a PsychoPy stimulus object, `stim_obj`)
 
 #### Epoch-specific Parameters:
 | Stimulus.stimtype | circle | circle |
-|-------------------|--------|--------|
+|:-------------------|:--------|:--------|
 | Stimulus.bg       | 0      | 1      |
 | Stimulus.fg       | 0      | 1      |
 | Stimulus.duration | 2      | 2      |
@@ -99,7 +99,7 @@ This stimulus function creates bars (a PsychoPy stimulus object, `bar`) with a s
 
 #### Epoch-specific Parameters:
 | Stimulus.stimtype      | stripe(s) |
-|------------------------|-----------|
+|:------------------------|:-----------|
 | Stimulus.bg            | 0.5       |
 | Stimulus.fg            | 0         |
 | Stimulus.bg.duration   | 1         |
@@ -159,7 +159,7 @@ This stimulus function generates ternary noise stimulation (using bars or square
 
 #### Epoch-specific Parameters:
 | Stimulus.stimtype      | circle | noise |
-|------------------------|--------|-------|
+|:------------------------|:--------|:-------|
 | Stimulus.bg            | 0.5    | 0     |
 | Stimulus.fg            | 0.5    | 0     |
 | Stimulus.texture.duration | 0    | 0.05  |
