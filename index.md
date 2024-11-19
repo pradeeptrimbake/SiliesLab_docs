@@ -12,7 +12,7 @@ Here you will find details regarding how to set-up the stimuli equipment before 
 
 ## Table of contents
 
-1. [Ligthtcrafter settings: Set-up and Verification](https://github.com/pradeeptrimbake/SiliesLab_docs/blob/main/ligthcrafter_settings.html)
+1. [Ligthtcrafter settings: Set-up and Verification](SiliesLab_docs/ligthcrafter_settings.html)
 2. [Perspective correction: Set-up and Verification](perspective_correction.html)
 4. [Function usage and examples](stimuli.html)
 5. Coming soon ....
