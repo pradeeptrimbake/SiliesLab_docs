@@ -1,5 +1,5 @@
 ---
-title: Perspective correction
+title: Ligthcrafter settings
 layout: page
 nav_order: 2
 math: katex
