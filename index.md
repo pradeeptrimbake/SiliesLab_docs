@@ -12,8 +12,8 @@ Here you will find details regarding how to set-up the stimuli equipment before 
 
 ## Table of contents
 
-1. [Ligthtcrafter settings: Set-up and Verification](ligthcrafter_settings)
+1. [Ligthtcrafter settings: Set-up and Verification](lightcrafter_settings.html)
 2. [Perspective correction: Set-up and Verification](perspective_correction.html)
-4. [Function usage and examples](stimuli.html)
-5. Coming soon ....
+3. [Function usage and examples](stimuli.html)
+4. Coming soon ....
 
